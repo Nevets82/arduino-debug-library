@@ -8,7 +8,6 @@ Simple macro based debugging library for Arduino.
 Copyright (c) 2019-2020 Steven Lietaer
 
 This code is licensed under the MIT License.
-
 See LICENSE file for more information.
 ```
 
@@ -187,7 +186,7 @@ void loop()
 }
 ```
 
-### Change Debugger/Speed
+### Print Milliseconds
 
 If you wish to add the number of milliseconds before the debug messages then
 just define the ```DEBUG_PRINT_MILLIS``` macro.
